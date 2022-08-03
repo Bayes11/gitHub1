@@ -4,3 +4,5 @@ page 1 will help us get started
 java is cool
 
 James Bond is always with us.
+
+Hello i made some changes to this page. 
